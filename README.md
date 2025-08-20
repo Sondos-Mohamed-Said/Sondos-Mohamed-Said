@@ -1,9 +1,6 @@
 # 👩‍💻 Sondos Mohamed  
 
-🎓 **Computer Science Graduate (Suez University, 2024)**  
-📊 **Data Analyst** skilled in Python, SQL, Excel, and Power BI  
-🚀 Passionate about turning raw data into actionable insights  
-🌍 Based in Suez, Egypt  
+Junior Data Analyst with practical experience in data analysis and business intelligence. Skilled in SQL, Python, Excel, and Power BI , Microsoft BI tools (SSIS, SSRS, SSAS) for creating dashboards and extracting insights. Familiar with Data Warehousing concepts and MongoDB, with Foundational knowledge of Machine Learning, motivated to support business decisions and grow within a dynamic team.
 
 ---
 
@@ -21,21 +18,18 @@
 ## 📂 Highlighted Projects
 - 📊 [**UEFA Dashboard (Power BI)**](https://github.com/Sondos-Mohamed-Said/UEFA_European_Championship-analysis-with-Power-Bi) – Interactive dashboard on tournament history & performance.  
 - 📈 [**Sales Performance Dashboard (Excel)**](https://github.com/Sondos-Mohamed-Said/Sales-Data-Analysis-using-Excel) – Monthly sales trends & KPIs using Pivot Tables.  
-- 💊 [**Pharmacy Sales Analysis (Python, Excel)**](https://github.com/Sondos-Mohamed-Said/Pharmacy-Sales-Data-Analysis) – Data cleaning & analysis with Python (Pandas, Matplotlib).  
 - 🗄️ [**DB-Tasks (SQL Server)**](https://github.com/Sondos-Mohamed-Said/DB-Tasks) – Practice covering SELECT, JOINS, Aggregation, Subqueries, Window Functions, CTEs, and Procedures.  
 - 🐍 [**Python Problem Solving**](https://github.com/Sondos-Mohamed-Said/Python-practice) – OOP, Modules, and problem-solving exercises in Python.  
 
 ---
 
 ## 💼 Experience (Highlights)
-- Automated data collection with **Python Web Scraping & Excel** → boosted efficiency from 5 to 20 calls/hour (Aziz, 2024).  
-- Analyzed client performance metrics & prepared reports for marketing decisions (Directeur, 2024–2025).  
-- Assisted in **SAP data migration & Active Directory updates** (Suez Oil Processing Co., 2023).  
-
+I gained diverse experience across different roles, where I consistently applied analytical and problem-solving skills. As a Call Center Agent at Aziz, I automated data collection with Python & Excel, boosting efficiency from 5 to 20 calls/hour. At Directeur, I managed clients and analyzed performance metrics to support data-driven marketing.
 ---
 
 ## 📄 My Resume
-[📄 View Resume (PDF)](https://github.com/Sondos-Mohamed-Said/Sondos-Mohamed/blob/main/Sondos-Mohamed-Data-Analyst.pdf)  
+<img src="./Sondos-Mohamed cv.png" width="700">
+.pdf)  
 
 ---
 
