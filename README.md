@@ -16,9 +16,9 @@ Junior Data Analyst with practical experience in data analysis and business inte
 ---
 
 ## 📂 Highlighted Projects
+- 🗄️ [**DB-Tasks (SQL Server)**](https://github.com/Sondos-Mohamed-Said/DB-Tasks) – Practice covering SELECT, JOINS, Aggregation, Subqueries, Window Functions, and Procedures.  
 - 📊 [**UEFA Dashboard (Power BI)**](https://github.com/Sondos-Mohamed-Said/UEFA_European_Championship-analysis-with-Power-Bi) – Interactive dashboard on tournament history & performance.  
 - 📈 [**Sales Performance Dashboard (Excel)**](https://github.com/Sondos-Mohamed-Said/Sales-Data-Analysis-using-Excel) – Monthly sales trends & KPIs using Pivot Tables.  
-- 🗄️ [**DB-Tasks (SQL Server)**](https://github.com/Sondos-Mohamed-Said/DB-Tasks) – Practice covering SELECT, JOINS, Aggregation, Subqueries, Window Functions, CTEs, and Procedures.  
 - 🐍 [**Python Problem Solving**](https://github.com/Sondos-Mohamed-Said/Python-practice) – OOP, Modules, and problem-solving exercises in Python.  
 
 ---
@@ -28,8 +28,7 @@ I gained diverse experience across different roles, where I consistently applied
 ---
 
 ## 📄 My Resume
-<img src="./Sondos-Mohamed CV.jpg" width="700">
-.pdf)  
+<img src="./Sondos-Mohamed CV.jpg" width="700">)  
 
 ---
 
