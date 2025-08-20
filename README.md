@@ -28,7 +28,7 @@ I gained diverse experience across different roles, where I consistently applied
 ---
 
 ## 📄 My Resume
-<img src="./Sondos-Mohamed cv.png" width="700">
+<img src="./Sondos-Mohamed CV.jpg" width="700">
 .pdf)  
 
 ---
