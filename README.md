@@ -16,11 +16,6 @@ Junior Data Analyst with practical experience in data analysis and business inte
 
 ---
 
-## 💼 Experience (Highlights)
-I’m Sondos Mohamed Said, a recent ITI graduate and a Junior Data Analyst with practical experience in data analysis and business intelligence. I am skilled in SQL, Python, Excel, and Power BI to extract insights and create dashboards. I also have hands-on experience with the Microsoft BI stack (SSIS, SSRS, SSAS), Familiar with Data Warehousing concepts and MongoDB, with Foundational knowledge of Machine Learning, motivated to support business decisions and grow within a dynamic team.
-
----
-
 ## 📄 My Resume
 <img src="./Sondos-Mohamed CV.jpg" width="700">)  
 
