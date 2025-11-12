@@ -17,7 +17,8 @@ Junior Data Analyst with practical experience in data analysis and business inte
 ---
 
 ## 💼 Experience (Highlights)
-I gained diverse experience across different roles, where I consistently applied analytical and problem-solving skills. As a Call Center Agent at Aziz, I automated data collection with Python & Excel, boosting efficiency from 5 to 20 calls/hour. At Directeur, I managed clients and analyzed performance metrics to support data-driven marketing.
+I’m Sondos Mohamed Said, a recent ITI graduate and a Junior Data Analyst with practical experience in data analysis and business intelligence. I am skilled in SQL, Python, Excel, and Power BI to extract insights and create dashboards. I also have hands-on experience with the Microsoft BI stack (SSIS, SSRS, SSAS), Familiar with Data Warehousing concepts and MongoDB, with Foundational knowledge of Machine Learning, motivated to support business decisions and grow within a dynamic team.
+
 ---
 
 ## 📄 My Resume
