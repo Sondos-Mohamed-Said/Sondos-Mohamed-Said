@@ -4,18 +4,6 @@ Junior Data Analyst with practical experience in data analysis and business inte
 
 ---
 
-## 🛠 Tech Stack
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=Microsoft-Excel)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-
----
-
 ## 📄 My Resume
 <img src="./Sondos-Mohamed CV.jpg" width="700">)  
 
