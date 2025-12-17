@@ -34,18 +34,14 @@ I am a **Junior Data Analyst & BI Developer** with hands-on experience in data a
 
 ## 🚀 Key Projects
 
-### 🛒 [Olist Data Analytics (ITI Graduation Project)](https://github.com/Sondos-Mohamed-Said)
+### 🛒 [Olist Data Analytics (ITI Graduation Project)](https://github.com/Sondos-Mohamed-Said/ITI_Graduation_Project_Olist)
 * **End-to-End BI Solution:** Implemented Database, Data Warehouse, and ETL pipelines using **SSIS**.
 * **Analysis & Reporting:** Utilized **SSAS** for analysis and **SSRS/Power BI** for reporting.
 * **Advanced Analytics:** Applied NLP and Market Basket Analysis to extract customer insights.
 
-### 🏨 [Hotel Booking Analysis](https://github.com/Sondos-Mohamed-Said)
+### 🏨 [Hotel Booking Analysis](https://github.com/Sondos-Mohamed-Said/Hotel-Booking-Analysis-Dashboard-using-PowerBI)
 * **Interactive Dashboard:** Created a dynamic 5-page **Power BI** dashboard to analyze booking patterns.
 * **Business Impact:** Provided insights into cancellation drivers and customer behaviors to enhance revenue and operational efficiency.
-
-### 🚲 [Adventure Works Data Modeling](https://github.com/Sondos-Mohamed-Said)
-* **Star Schema Design:** Designed a comprehensive data model in Power BI.
-* **KPI Tracking:** Created complex calculated measures using **DAX** for accurate performance tracking.
 
 ---
 
