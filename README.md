@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Key Projects & Demos
 
 ### 🛒 [Olist Data Analytics (ITI Graduation Project)](https://github.com/Sondos-Mohamed-Said/ITI_Graduation_Project_Olist)
 * **End-to-End BI Solution:** Implemented Database, Data Warehouse, and ETL pipelines using **SSIS**.
@@ -60,9 +60,9 @@
 * **Interactive Dashboard:** Created a dynamic 5-page **Power BI** dashboard to analyze booking patterns.
 * **Business Impact:** Provided insights into cancellation drivers and customer behaviors to enhance revenue and operational efficiency.
 
-### 🏨 [Hotel Booking Analysis](https://github.com/Sondos-Mohamed-Said/Hotel-Booking-Analysis-Dashboard-using-PowerBI)
-* **Interactive Dashboard:** Created a dynamic 5-page **Power BI** dashboard to analyze booking patterns.
-* **Business Impact:** Provided insights into cancellation drivers and customer behaviors to enhance revenue and operational efficiency.
+### 💊 [PharmaTrack Business Intelligence](https://github.com/Sondos-Mohamed-Said/PharmaTrack-Analytics-Galaxy-Schema)
+* **BI Solution:** Designed to simulate and analyze the operations of a pharmacy chain in Egypt.
+* **Core Analytics:** Covers three core areas: **Financial Performance**, **Staff Productivity**, and **Inventory Health**.
 <div align="center">
   <img src="./Pharmacy-Demo.gif" width="700" alt="Olist Project Demo GIF" />
 </div>
