@@ -84,7 +84,14 @@
 </div>
 
 ---
+## 📄 My Resume
 
+> **Note:** Click the link below to view my CV.
+
+<a href="./Sondos-Mohamed CV.jpg" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW_MY_RESUME-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+</a>
+---
 ## 📫 Connect with Me
 
 <div align="center">
