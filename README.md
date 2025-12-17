@@ -2,7 +2,23 @@
 
 ### 📊 Data Analyst | BI Developer
 
-I am a **Junior Data Analyst & BI Developer** with hands-on experience in data analysis, visualization, and business intelligence. I specialize in designing dashboards and delivering actionable insights using **Power BI**, **SQL**, and **Python**. I have a strong foundation in **ETL processes**, **Data Warehousing**, and **Data Modeling**, with a proven ability to support business decisions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sondos-mohamed-said/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@Sondos_Analytics" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/SondosAnalytics/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://sondosmohamed.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:sondosmohamedsaid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
