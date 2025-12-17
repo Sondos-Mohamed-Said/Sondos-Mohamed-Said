@@ -55,6 +55,7 @@
 * **End-to-End BI Solution:** Implemented Database, Data Warehouse, and ETL pipelines using **SSIS**.
 * **Analysis & Reporting:** Utilized **SSAS** for analysis and **SSRS/Power BI** for reporting.
 * **Advanced Analytics:** Applied NLP and Market Basket Analysis to extract customer insights.
+> **🎥 Watch the Project Demo:** > <a href="https://youtu.be/X6VpkWt1aBc" target="_blank"><img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg" alt="Olist Project Video" width="500" border="10" /></a>
 
 ### 🏨 [Hotel Booking Analysis](https://github.com/Sondos-Mohamed-Said/Hotel-Booking-Analysis-Dashboard-using-PowerBI)
 * **Interactive Dashboard:** Created a dynamic 5-page **Power BI** dashboard to analyze booking patterns.
