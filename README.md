@@ -60,6 +60,14 @@
 * **Interactive Dashboard:** Created a dynamic 5-page **Power BI** dashboard to analyze booking patterns.
 * **Business Impact:** Provided insights into cancellation drivers and customer behaviors to enhance revenue and operational efficiency.
 
+### 🏨 [Hotel Booking Analysis](https://github.com/Sondos-Mohamed-Said/Hotel-Booking-Analysis-Dashboard-using-PowerBI)
+* **Interactive Dashboard:** Created a dynamic 5-page **Power BI** dashboard to analyze booking patterns.
+* **Business Impact:** Provided insights into cancellation drivers and customer behaviors to enhance revenue and operational efficiency.
+<div align="center">
+  <img src="./Pharmacy-Demo.gif" width="700" alt="Olist Project Demo GIF" />
+</div>
+
+
 ---
 
 ## 💼 Experience Highlights
