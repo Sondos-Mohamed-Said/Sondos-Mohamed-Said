@@ -1,48 +1,59 @@
-<div align="center">
-
 # 👩‍💻 Hi, I'm Sondos Mohamed
 
 ### 📊 Junior Data Analyst | Business Intelligence Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sondos%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sondos-mohamed-said/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK_HERE)
-
-<br/>
-
-**Transforming raw data into actionable business insights.** Junior Data Analyst with practical experience in data analysis, BI, and Data Warehousing.  
-Skilled in the Microsoft Ecosystem (Power BI, SSIS, SSRS, SSAS) and Python.
-
-</div>
+I am a Junior Data Analyst with practical experience in transforming raw data into actionable insights. I specialize in the **Microsoft BI Stack**, **Python**, and **SQL**, with a strong foundation in Data Warehousing and Machine Learning. I am motivated to support business decisions and grow within a dynamic team.
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **Analysis & BI** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![SSIS](https://img.shields.io/badge/-SSIS-0078D4?style=flat) ![SSRS](https://img.shields.io/badge/-SSRS-CC2927?style=flat) |
-| **Databases** | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Concepts** | Data Warehousing • ETL Processes • Machine Learning (Foundational) |
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 📊 Data Visualization & Analysis
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🏗️ Microsoft BI Stack & Databases
+![SSIS](https://img.shields.io/badge/SSIS-Integration_Services-blue?style=for-the-badge)
+![SSRS](https://img.shields.io/badge/SSRS-Reporting_Services-red?style=for-the-badge)
+![SSAS](https://img.shields.io/badge/SSAS-Analysis_Services-green?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 📂 Top Projects
+## 📈 GitHub Stats
 
-* **[Project Name 1]**: Brief description (e.g., "Sales dashboard creating using Power BI and SQL").
-* **[Project Name 2]**: Brief description (e.g., "Python script for cleaning marketing data").
-
----
-
-### 📈 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150" alt="Sondos's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Sondos's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-### 📄 Resume
+## 📄 My Resume
+
+> **Note:** Click the link below to view or download my CV.
+
 <a href="./Sondos-Mohamed CV.jpg" target="_blank">
-  <img src="https://img.shields.io/badge/View_My_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW_MY_RESUME-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 </a>
+
+<br />
+<img src="./Sondos-Mohamed CV.jpg" width="700" alt="Sondos Mohamed Resume Preview">
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sondos-mohamed-said/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
