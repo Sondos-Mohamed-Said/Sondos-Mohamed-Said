@@ -1,7 +1,8 @@
 # 👩‍💻 Hi, I'm Sondos Mohamed
 
 ### 📊 Data Analyst | BI Developer
-
+I am a **Junior Data Analyst & BI Developer** with hands-on experience in data analysis, visualization, and business intelligence. I specialize in designing dashboards and delivering actionable insights using **Power BI**, **SQL**, and **Python**. I have a strong foundation in **ETL processes**, **Data Warehousing**, and **Data Modeling**, with a proven ability to support business decisions.
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/sondos-mohamed-said/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -86,11 +87,9 @@
 ---
 ## 📄 My Resume
 
-> **Note:** Click the link below to view my CV.
-
-<a href="./Sondos-Mohamed CV.jpg" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW_MY_RESUME-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-</a>
+<div align="center">
+  <img src="./Sondos-Mohamed CV.jpg" width="800" alt="Sondos Mohamed Resume">
+</div
 ---
 ## 📫 Connect with Me
 
